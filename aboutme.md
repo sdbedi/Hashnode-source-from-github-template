@@ -7,7 +7,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1535648192079/H1daWiB
 domain: sheelbedi.com
 ---
 
-This is a continuation/soft reboot of my earlier personal site and [blog](sheelbedi.medium.com), and a place to share my thoughts. 
+This is a continuation/soft reboot of my earlier [personal site](http://www.sheelbedi.com.s3-website.us-east-2.amazonaws.com/) and [blog](sheelbedi.medium.com), and a place to share my thoughts. 
 
 Software is a second career for me. I grew up alongside the Internet, and so I've always had an interest in tech, and particularly the web. However, beyond a few courses here and there, that interest never translated to any serious professional or academic commitment.
 Instead, I found my academic passion lay with modern literature, and I dreamed of making a difference. And so I majored in English, and went on to law school, with the full intention of a prestigious career fighting the good fight.
