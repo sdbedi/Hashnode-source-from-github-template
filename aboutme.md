@@ -2,8 +2,8 @@
 title: The Journey Continues
 subtitle: An example subtitle
 slug: the-journey-continues
-tags: general programming, software engineering, webdev, Career
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1649662225945/7f_c6UxhR.jpg?auto=compress
+tags: General Programming, Software Engineering, webdev, Career
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1535648192079/H1daWiBvQ.png
 domain: sheelbedi.com
 ---
 
