@@ -1,13 +1,13 @@
 ---
-title: The Journey Continues
-subtitle: Or, welcome to my corner of the web.
+title: About Me
+subtitle: The Journey Continues
 slug: the-journey-continues
 tags: General Programming, Software Engineering, webdev, Career
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1535648192079/H1daWiBvQ.png
 domain: sheelbedi.com
 ---
 
-This is a continuation/soft reboot of my earlier [personal site](http://www.sheelbedi.com.s3-website.us-east-2.amazonaws.com/) and [blog](sheelbedi.medium.com), and a place to share my thoughts. 
+This site is a continuation/soft reboot of my earlier [personal site](http://www.sheelbedi.com.s3-website.us-east-2.amazonaws.com/) and [blog](sheelbedi.medium.com), and a place to share my thoughts. I already have an ["About"](https://sheelbedi.com/about) page, but I thought I'd provide a little more backstory here.
 
 Software is a second career for me. I grew up alongside the Internet, and so I've always had an interest in tech, and particularly the web. However, beyond a few courses here and there, that interest never translated to any serious professional or academic commitment.
 Instead, I found my academic passion lay with modern literature, and I dreamed of making a difference. And so I majored in English, and went on to law school, with the full intention of a prestigious career fighting the good fight.
@@ -21,4 +21,4 @@ While the author did practice law prior to switching over to tech, and his main 
 
 Having switched industries, I've found there are very natural (if non-obvious) parallels and similarities between legal practice and software development; both are analytical endeavors, and demand similar skills. The analytical similarities between law and software are rich ground, and would merit their own article, or series thereof. They’ve been been written about elsewhere — I might add my own thoughts down the line.
 
-Anyway, that's my story. There'll be more to come, but I'm still feeling out what kind of topics I want to cover.
+Anyway, that's my story. There'll be more to come, but I'm still feeling out what kind of topics I want to cover. I'd like to aim for a mix of topics, and a balance of directly technical content, personal reflections, and thoughts on larger tech trends, but we'll see.
