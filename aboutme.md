@@ -1,6 +1,6 @@
 ---
 title: The Journey Continues
-subtitle: An example subtitle
+subtitle: Or, welcome to my corner of the web.
 slug: the-journey-continues
 tags: General Programming, Software Engineering, webdev, Career
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1535648192079/H1daWiBvQ.png
