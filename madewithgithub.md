@@ -1,6 +1,6 @@
 ---
 title: I made this post with Github. I won't do another. 
-subtitle: How to make blogging a part of your development workflow. 
+subtitle: Should you bring blogging into your development workflow?
 slug: made-with-github
 tags: Hashnode, blog, Blogging
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1619605440273/S3_X4Rf7V.jpeg
