@@ -1,5 +1,5 @@
 ---
-title: I made this post with Github. I won't do another. 
+title: I made this post with Github. I probably won't do another. 
 subtitle: Should you bring blogging into your development workflow?
 slug: made-with-github
 tags: Hashnode, blog, Blogging
@@ -17,9 +17,9 @@ It's a similar story when adding a cover image to an article. The website has a 
 
 All of the above issues just slow down my writing. More fundamentally, however, I'm simply accustomed to a graphical interface when writing serious prose. In particular, I like formatting text with a few mouse clicks, and I want to see the resulting look while I'm working in the document. In Markdown, by contrast, you're forced to lookup (or learn) a new set of commands, and when it comes to formatting, the best you can do is to view a live preview alongside the source text. And as sad as it is, I need spellcheck/grammar checking capabilities - try as I might, I still make typos and other mistakes in my writing, and there are probably more than a few I haven't caught in this article. 
 
-Essentially, I think it comes down to the fact that I've written a lot in my career, but it's always been in dedicated writing platforms like MS Word - or LibreOffice later -  and I'm used to what these platforms offer. While I have some familiarity with markdown, and I'm comfortable writing documentation pages with it, I don't consider myself fluent, and I'm not comfortable writing anything further.
+Essentially, I think it comes down to the fact that I've written a lot in my career, but it's always been in dedicated writing platforms like MS Word - or LibreOffice later -  and I'm used to what these platforms offer. While I have some familiarity with markdown, and I'm comfortable writing documentation pages with it, I don't consider myself fluent, and I'm not comfortable writing anything longer.
 
 In fact, I would go so far as to state that longform writing is not well suited to this kind of tooling; I think it's analagous to trying to write source code in Microsoft Word. You can certainly put the right words, characters, and symbols in the right places, but your tooling won't provide you any help with the content, and the end product will probably suffer. 
 
-That being said, I admit that everything I've written here is based in my experience, and I could be wrong on one or more points. I believe in choosing the right tool for the job, but maybe that answer is different for different people. And for all the issues I enountered with this type of writing process, I'm still glad the option exists, and I'm still glad I tried it.
+That being said, I admit that everything I've written here is based in my experience, and I could be wrong on one or more points. I believe in choosing the right tool for the job, but maybe that answer is different for different people. And for all the issues I enountered with this type of writing process, I'm still glad the option exists - more options are generally better, and maybe this right for someone - and I'm still glad I tried it.
 
